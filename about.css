@@ -185,7 +185,7 @@ header  nav ul li a{
     justify-content: space-evenly;
     font-family: Lato;
     position: relative;
-    top:200px;
+    top:100px;
 }
 .groupHeading2{
     display: flex;
@@ -236,7 +236,7 @@ header  nav ul li a{
 }
 .exploreGroup{
     position: relative;
-    top:480px;
+    top:180px;
     width:90%;
     margin: 0 auto;
     left:60px;
@@ -250,7 +250,7 @@ header  nav ul li a{
     flex-direction: column;
     font-family: Lato;
     position: relative;
-    top:530px;
+    top:210px;
 }
 
 .Explore{
